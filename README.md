@@ -1,4 +1,4 @@
-#JS-Modal
+# JS-Modal
 Created with CodeSandbox
 
 ## What is a Modal?
